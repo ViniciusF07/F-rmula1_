@@ -7,7 +7,7 @@ body{
 
 .container{
     background-color: white;
-    background-image: url('imagens/fundo-f1.jpg');
+    background-image: url('fundo-f1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     
@@ -37,7 +37,7 @@ width: 98%;
     border-color: gray;
     padding-left: 1%;
     padding-bottom: 1%;
-    background-image: url('imagens/bandeira1.jpg');
+    background-image: url('bandeira1.jpg');
     background-repeat: no-repeat;
     background-position: right;
 }
