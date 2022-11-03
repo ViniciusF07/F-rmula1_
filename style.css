@@ -1,0 +1,84 @@
+body{
+    background-color: gray;
+    margin-top: 5%;
+    margin-right: 19%;
+    margin-left: 20%;
+}
+
+.container{
+    background-color: white;
+    background-image: url('imagens/fundo-f1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.titulo{
+padding-top: 1%;
+padding-bottom: 1%;
+padding-left: 1%;
+padding-right: 1%;
+width: 98%;
+
+
+
+}
+
+.principal{
+    text-align: center;
+}
+
+.topico{
+    border-style: solid ;
+    border-bottom-width:1px ;
+    border-left-width: 10px;
+    border-right-width:0px ;
+    border-top-width: 0px;
+    border-color: gray;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    background-image: url('imagens/bandeira1.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.espacamento{
+    padding-left: 5%;
+}
+
+.equipes{
+    border-style: dotted;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-color: gray;
+
+}
+
+.equipes1{
+    border-style: dotted;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-color: gray;
+    font-weight: bold;
+}
+
+p{
+    text-indent: 10%;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+a:link{
+    text-decoration: none;
+    color: darkkhaki;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: darkkhaki;
+}
+
